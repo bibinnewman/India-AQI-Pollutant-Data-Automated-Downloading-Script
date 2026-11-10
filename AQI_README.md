@@ -596,7 +596,11 @@ Users should follow applicable CPCB data-use conditions and acknowledge CPCB as 
 
 ## 14. License
 
-The repository license does not supersede the terms governing the original CPCB datasets or the Vayuayan library.
+The repository license does not supersede the terms governing the original CPCB datasets or the Vayuayan library
+
+This repository contains an independent Python script for downloading historical CPCB data using the `vayuayan` Python package.
+
+The script does not claim ownership of CPCB datasets or the`vayuayan` package. Their respective terms and licenses apply.
 
 ---
 
