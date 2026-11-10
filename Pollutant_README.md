@@ -600,7 +600,7 @@ This repository contains an independent Python script for downloading historical
 
 The script does not claim ownership of CPCB datasets or the`vayuayan` package. Their respective terms and licenses apply.
 
-
+---
 
 **VAYUAYAN 0.3.0 | CPCB India Historical Raw Pollutant Data Downloader**
 
